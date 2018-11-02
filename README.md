@@ -1,2 +1,2 @@
 # exampleProject
-this is an example
+this is an exammpl
